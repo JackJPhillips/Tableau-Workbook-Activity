@@ -65,4 +65,7 @@ Ensure the "Country" filter on the "Population by Gender" worksheet applies to t
 
 Add a Title to your dashboard, e.g., "Global Health Insights". 
 
-<img width="1693" height="854" alt="image" src="https://github.com/user-attachments/assets/0457544c-26a3-4171-9702-b3ad33e7f62f" />
+<img width="1693" height="854" alt="image" src="https://github.com/user-attachments/assets/0457544c-26a3-4171-9702-b3ad33e7f62f" />  
+
+  
+[Link to public workbook](https://public.tableau.com/views/GlobalHealthInsights-JackP_17591543859310/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
